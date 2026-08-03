@@ -1,0 +1,12 @@
+{
+    "git.autofetch": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme": "vscode-great-icons",
+    "git.confirmSync": false,
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.inlineSuggest.enabled": false,
+}
