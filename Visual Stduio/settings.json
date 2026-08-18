@@ -1,0 +1,14 @@
+{
+  "windowsFormsDesigner.general.refactoring.enableRefactoringOnRename": true,
+  "textEditor.codeCompletions.general.codeCompletionsProviders": [],
+  "textEditor.codeCompletions.preferences.showCodeCompletionsOnNewLines": false,
+  "textEditor.codeCompletions.preferences.acceptPartialSuggestionWord": false,
+  "textEditor.codeCompletions.preferences.acceptPartialSuggestionLine": false,
+  "environment.accounts.authenticateAcrossAllTenants": true,
+  "environment.accounts.runAsWarning": true,
+  "debugging.general.closeConsoleWhenDebuggingEnds": false,
+  "environment.tabs.documentTabs.multiRowTabs": true,
+  "languages.cpp.intelliSense.references.maxFindReferencesThreads": 6,
+  "languages.cpp.intelliSense.maximumCachedTranslationUnits": 7,
+  "languages.cpp.intelliSense.browsingNavigation.wholeCodebaseSemanticIndex.maximumWorkerThreads": 8
+}
